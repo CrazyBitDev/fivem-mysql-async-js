@@ -1,1 +1,1 @@
-# fivem-mysql-async-ts
+# fivem-mysql-async-js
