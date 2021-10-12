@@ -1,10 +1,10 @@
 {
   "name": "fivem-mysql-async-js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "main": "index.js",
   "engines": {
-	"node": ">=4.2.4"
+    "node": ">=4.2.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
